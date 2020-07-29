@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-app",
+  "name": "singolawu.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Dhruv34788.github.io/me",
+  "homepage": "https://singolawu.github.io",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
