@@ -11,10 +11,9 @@ export default class About extends Component {
                 <div className='row row-bottom-padded-sm animate-box' data-animate-effect='fadeInLeft'>
                   <div className='col-md-12'>
                     <div className='about-desc'>
-                      <span className='heading-meta'>About Us</span>
-                      <h2 className='colorlib-heading'>Apa itu Singolawu.id?</h2>
-                      <p>Singolawu.id adalah... </p>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                      <span className='heading-meta'>About Me</span>
+                      <h2 className='colorlib-heading'>Personal Profile</h2>
+                      <p>Hello, I am Puji Andrianto, a specialized Mobile Developer with more than three years of experience and has published more than 5 Apps. As a mobile application developer, my career began in 2018 when I got a project for E-commerce. My mission is to improve user experience and work quickly based on the client's need to make a new app. I also will continuously develop an app that must always be easier to use.</p>
                     </div>
                   </div>
                 </div>
@@ -38,7 +37,7 @@ export default class About extends Component {
                   </span>
                   <div className='desc'>
                     <h3>Mobile Development </h3>
-                    <p>I have experience building Mobile App (Android & iOS) using React Native.</p>
+                    <p>I have more than 3 years experience building Mobile App (Android & iOS) using React Native and Flutter.</p>
                   </div>
                 </div>
               </div>
@@ -53,7 +52,7 @@ export default class About extends Component {
                   </div>
                 </div>
               </div>
-              <div className='col-md-4 text-center animate-box'>
+              {/* <div className='col-md-4 text-center animate-box'>
                 <div className='services color-5'>
                   <span className='icon'>
                     <i className='icon-data' />
@@ -63,9 +62,9 @@ export default class About extends Component {
                     <p>Since I have background of IT for long time. I have good grasp over fundamental concepts of Data Structures & Algorithms</p>
                   </div>
                 </div>
-              </div>
-              
-            {/* <div className="col-md-4 text-center animate-box">
+              </div> */}
+
+              {/* <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
                     <i className="icon-data" />
@@ -76,7 +75,7 @@ export default class About extends Component {
                 </div>
                 </div>
             </div> */}
-            <div className="col-md-4 text-center animate-box">
+              {/* <div className="col-md-4 text-center animate-box">
                 <div className="services color-4">
                 <span className="icon">
                     <i className="icon-layers2" />
@@ -97,8 +96,8 @@ export default class About extends Component {
                     <p>I use Instagram eight hours a day :) </p>
                 </div>
                 </div>
-            </div>
-           
+            </div> */}
+
             </div>
           </div>
         </section>
