@@ -11,7 +11,7 @@ export default class Sidebar extends Component {
               <div className='author-img' style={{ backgroundImage: 'url(images/about_me.jpg)' }} />
               <h1 id='colorlib-logo'><a href='index.html'>Puji Andrianto</a></h1>
               <span className='email'><i className='icon-mail' /> Pujiandrianto.95@gmail.com</span>
-              <span className='number'><i className='icon-phone' /> +62 882-2010-0096</span>
+              <span className='number'><i className='icon-phone' /> +62 851-5743-9445</span>
             </div>
             <nav id='colorlib-main-menu' role='navigation' className='navbar'>
               <div id='navbar' className='collapse'>
